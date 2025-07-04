@@ -1,0 +1,4 @@
+sms_gui_project/
+├── create_db.py       ← Creates the SQLite DB
+├── sms_gui_viewer.py  ← Tkinter GUI to read and display SMS
+├── sample_sms.db      ← (Generated after running create_db.py)
